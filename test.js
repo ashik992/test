@@ -10,3 +10,7 @@ var testTwo = function(){
   //Test two
 };
 
+var testThree = function(){
+  //Test three
+};
+
