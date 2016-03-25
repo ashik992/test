@@ -1,5 +1,7 @@
 'use strict';
 
+//This is a test file to test git 
+
 console.log('This is a test string');
 
 var testFunction = function(opts) {
