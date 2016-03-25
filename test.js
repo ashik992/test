@@ -6,3 +6,7 @@ var testFunction = function(opts) {
   console.log('This is a test console log form test function');
 };
 
+var testTwo = function(){
+  //Test two
+};
+
